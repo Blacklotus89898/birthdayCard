@@ -45,7 +45,7 @@ const showN = ref(false);
 .board {
     display: flex;
     width: 600px;
-    flex-wrap: wrap;
+    
     
   
 }
